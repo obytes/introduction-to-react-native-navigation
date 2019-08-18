@@ -1,6 +1,6 @@
 # introduction-to-react-native-navigation
 
-Article to get startd with react-native-navigation 🚀 Check the article (here)[https://www.obytes.com/blog/2019/Intro-to-React-Native-Navigation/]
+Article to get stared with react-native-navigation 🚀 Check the article (here)[https://www.obytes.com/blog/2019/Intro-to-React-Native-Navigation/]
 
 ## Getting Started
 
